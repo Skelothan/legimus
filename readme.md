@@ -27,7 +27,7 @@ full length game, I would love to include visual theming around books.
 ## Running the Project
 
 Navigate to the project folder in your terminal and run 
-`python3 overworld\_v08.py`.
+`python3 overworld_v08.py`.
 
 ## Controls
 
@@ -39,4 +39,5 @@ J (debug command): Give your player character 500 experience points. You'll leve
 K (debug command): Fully restore your player character's HP and SP.
 
 ### Menus and Battle
-W, S, or up and down arrow keys
+W, S, or up and down arrow keys: move menu cursor up and down
+Enter or Space: select menu option
