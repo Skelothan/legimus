@@ -39,5 +39,6 @@ J (debug command): Give your player character 500 experience points. You'll leve
 K (debug command): Fully restore your player character's HP and SP.
 
 ### Menus and Battle
-W, S, or up and down arrow keys: move menu cursor up and down
+W, S, or up and down arrow keys: move menu cursor up and down. 
+
 Enter or Space: select menu option
