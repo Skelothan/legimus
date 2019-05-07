@@ -2,7 +2,7 @@
 
 ## Installing Pygame
 I used pip to install Pygame. It's probably best to follow the instructions 
-[here](https://www.pygame.org/wiki/GettingStarted)
+[here](https://www.pygame.org/wiki/GettingStarted).
 
 ## About *Legimus*
 *Legimus* is a turn-based RPG inspired by games such as Final Fantasy, Dragon 
@@ -34,9 +34,9 @@ Navigate to the project folder in your terminal and run
 ### Overworld
 WASD or arrow keys: move
 
-J (debug command): Give all player characters 500 experience points.
+J (debug command): Give your player character 500 experience points. You'll level up (if you're eligible) after completing the next fight.
 
-K (debug command): Fully restore all player characters' HP and SP
+K (debug command): Fully restore your player character's HP and SP.
 
 ### Menus and Battle
 W, S, or up and down arrow keys
